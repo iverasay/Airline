@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuelingWebServices.WebAPI", "VuelingWebServices.WebAPI\VuelingWebServices.WebAPI.csproj", "{DC52A68A-3CF3-4A3F-BBB1-779E3F808EF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuelingWebServices.ReglasDeNegocio", "VuelingWebServices.ReglasDeNegocio\VuelingWebServices.ReglasDeNegocio.csproj", "{48744400-D4C2-4F6D-9227-FEE7E66D04E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuelingWebServices.ObjetosDeDominio", "VuelingWebServices.ObjetosDeDominio\VuelingWebServices.ObjetosDeDominio.csproj", "{A3D446E8-00FA-47AE-8165-23395DB2D04C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuelingWebServices.AccesoADatos", "VuelingWebServices.AccesoADatos\VuelingWebServices.AccesoADatos.csproj", "{4FF1084C-54D4-4E16-A256-97EC0795FA40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuelingWebServices.EntFwk", "VuelingWebServices.EntFwk\VuelingWebServices.EntFwk.csproj", "{F8B8211F-89F1-4CCB-BE4F-690EA4B5441F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC52A68A-3CF3-4A3F-BBB1-779E3F808EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC52A68A-3CF3-4A3F-BBB1-779E3F808EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC52A68A-3CF3-4A3F-BBB1-779E3F808EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC52A68A-3CF3-4A3F-BBB1-779E3F808EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48744400-D4C2-4F6D-9227-FEE7E66D04E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48744400-D4C2-4F6D-9227-FEE7E66D04E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48744400-D4C2-4F6D-9227-FEE7E66D04E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48744400-D4C2-4F6D-9227-FEE7E66D04E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D446E8-00FA-47AE-8165-23395DB2D04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D446E8-00FA-47AE-8165-23395DB2D04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D446E8-00FA-47AE-8165-23395DB2D04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D446E8-00FA-47AE-8165-23395DB2D04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FF1084C-54D4-4E16-A256-97EC0795FA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF1084C-54D4-4E16-A256-97EC0795FA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF1084C-54D4-4E16-A256-97EC0795FA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF1084C-54D4-4E16-A256-97EC0795FA40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8B8211F-89F1-4CCB-BE4F-690EA4B5441F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B8211F-89F1-4CCB-BE4F-690EA4B5441F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B8211F-89F1-4CCB-BE4F-690EA4B5441F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B8211F-89F1-4CCB-BE4F-690EA4B5441F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

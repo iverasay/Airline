@@ -1,0 +1,11 @@
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.AccesoADatos\bin\Debug\VuelingWebServices.AccesoADatos.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.AccesoADatos\bin\Debug\VuelingWebServices.AccesoADatos.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.AccesoADatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.AccesoADatos\bin\Debug\Unity.Abstractions.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.AccesoADatos\bin\Debug\Unity.Container.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.AccesoADatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.AccesoADatos\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.AccesoADatos\bin\Debug\Unity.Container.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.AccesoADatos\obj\Debug\VuelingWebServices.AccesoADatos.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.AccesoADatos\obj\Debug\VuelingWebServices.AccesoADatos.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.AccesoADatos\obj\Debug\VuelingWebServices.AccesoADatos.pdb

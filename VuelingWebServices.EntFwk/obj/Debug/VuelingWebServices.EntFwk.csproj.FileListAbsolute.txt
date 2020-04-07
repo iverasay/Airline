@@ -1,0 +1,12 @@
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\bin\Debug\VuelingWebServices.EntFwk.dll.config
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\bin\Debug\VuelingWebServices.EntFwk.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\bin\Debug\VuelingWebServices.EntFwk.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\bin\Debug\EntityFramework.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\bin\Debug\VuelingWebServices.ObjetosDeDominio.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\bin\Debug\VuelingWebServices.ObjetosDeDominio.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\bin\Debug\EntityFramework.xml
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\obj\Debug\VuelingWebServices.EntFwk.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\obj\Debug\VuelingWebServices.EntFwk.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.EntFwk\obj\Debug\VuelingWebServices.EntFwk.pdb

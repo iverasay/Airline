@@ -1,0 +1,11 @@
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ObjetosDeDominio\bin\Debug\VuelingWebServices.ObjetosDeDominio.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ObjetosDeDominio\bin\Debug\VuelingWebServices.ObjetosDeDominio.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ObjetosDeDominio\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ObjetosDeDominio\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ObjetosDeDominio\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ObjetosDeDominio\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ObjetosDeDominio\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ObjetosDeDominio\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ObjetosDeDominio\obj\Debug\VuelingWebServices.ObjetosDeDominio.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ObjetosDeDominio\obj\Debug\VuelingWebServices.ObjetosDeDominio.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ObjetosDeDominio\obj\Debug\VuelingWebServices.ObjetosDeDominio.pdb

@@ -1,0 +1,5 @@
+2019-11-28 11:58:06,979 [7] DEBUG VuelingWebServices.WebAPI.Controllers.TransaccionesController - Debug message
+2019-11-28 11:58:07,583 [7] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - Warn message
+2019-11-28 11:58:08,132 [7] ERROR VuelingWebServices.WebAPI.Controllers.TransaccionesController - Error message
+2019-11-28 11:58:08,687 [7] FATAL VuelingWebServices.WebAPI.Controllers.TransaccionesController - Fatal message
+2019-11-28 11:58:17,287 [7] FATAL VuelingWebServices.WebAPI.Controllers.TransaccionesController - Fatal message

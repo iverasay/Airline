@@ -1,0 +1,13 @@
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\bin\Debug\VuelingWebServices.ReglasDeNegocio.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\bin\Debug\VuelingWebServices.ReglasDeNegocio.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\bin\Debug\Unity.Abstractions.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\bin\Debug\Unity.Container.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\bin\Debug\VuelingWebServices.ObjetosDeDominio.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\bin\Debug\VuelingWebServices.ObjetosDeDominio.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\bin\Debug\Unity.Container.pdb
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\obj\Debug\VuelingWebServices.ReglasDeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\obj\Debug\VuelingWebServices.ReglasDeNegocio.dll
+C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.ReglasDeNegocio\obj\Debug\VuelingWebServices.ReglasDeNegocio.pdb

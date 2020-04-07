@@ -1,0 +1,58 @@
+2019-11-28 13:02:06,241 [8] DEBUG VuelingWebServices.WebAPI.Controllers.TransaccionesController - Debug message
+2019-11-28 13:02:06,667 [8] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - Warn message
+2019-11-28 13:02:07,076 [8] ERROR VuelingWebServices.WebAPI.Controllers.TransaccionesController - Error message
+2019-11-28 13:02:07,750 [8] FATAL VuelingWebServices.WebAPI.Controllers.TransaccionesController - Fatal message
+2019-11-28 13:29:05,352 [7] DEBUG VuelingWebServices.WebAPI.Controllers.TransaccionesController - Debug message
+2019-11-28 13:29:05,361 [7] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - Warn message
+2019-11-28 13:29:05,362 [7] ERROR VuelingWebServices.WebAPI.Controllers.TransaccionesController - Error message
+2019-11-28 13:29:05,362 [7] FATAL VuelingWebServices.WebAPI.Controllers.TransaccionesController - Fatal message
+2019-11-28 13:29:21,625 [7] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No se puede resolver el nombre remoto: 'quiet-stone-2094.herokuapp.com'
+   en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaConversiones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 68
+
+2019-11-28 13:37:08,779 [9] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No se puede resolver el nombre remoto: 'quiet-stone-2094.herokuapp.com'    en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaConversiones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 61
+2019-11-28 14:39:49,167 [8] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No es posible conectar con el servidor remoto    en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaTransacciones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 36
+2019-11-28 14:39:55,217 [8] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No se puede resolver el nombre remoto: 'quiet-stone-2094.herokuapp.com'    en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaConversiones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 68
+2019-11-28 14:40:51,959 [7] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No se puede resolver el nombre remoto: 'quiet-stone-2094.herokuapp.com'    en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaTransacciones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 36
+2019-11-28 14:41:33,754 [7] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No se puede resolver el nombre remoto: 'quiet-stone-2094.herokuapp.com'    en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaConversiones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 68
+2019-11-28 14:42:21,882 [7] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No se puede resolver el nombre remoto: 'quiet-stone-2094.herokuapp.com'    en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaTransacciones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 36
+2019-11-28 14:42:26,610 [7] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No se puede resolver el nombre remoto: 'quiet-stone-2094.herokuapp.com'    en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaConversiones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 68
+2019-11-28 14:45:33,655 [6] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No es posible conectar con el servidor remoto    en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaTransacciones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 36
+2019-11-28 14:45:33,738 [6] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No se puede resolver el nombre remoto: 'quiet-stone-2094.herokuapp.com'    en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaConversiones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 68
+2019-11-28 14:49:43,996 [6] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No es posible conectar con el servidor remoto    en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaTransacciones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 36
+2019-11-28 14:49:44,068 [6] WARN VuelingWebServices.WebAPI.Controllers.TransaccionesController - System.Net.WebException: No se puede resolver el nombre remoto: 'quiet-stone-2094.herokuapp.com'    en System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   en System.Net.WebClient.DownloadString(Uri address)
+   en System.Net.WebClient.DownloadString(String address)
+   en VuelingWebServices.WebAPI.Controllers.TransaccionesController.ListaConversiones() en C:\Users\Nacho\Documents\GitHub\BranchIverasay\ignacio_verasay\VuelingWebServices\VuelingWebServices.WebAPI\Controllers\TransaccionesController.cs:línea 68
